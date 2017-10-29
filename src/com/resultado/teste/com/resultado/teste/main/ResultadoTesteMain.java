@@ -14,4 +14,12 @@ public class ResultadoTesteMain {
         return ResultadoTesteUtil.findFirstRepeated(exemplo1);
     }
 
+    public String exercicio2() {
+        return ResultadoTesteUtil.printStairs(3);
+    }
+
+    public String exercicio5() {
+
+        return ResultadoTesteUtil.getStringIncidence("Programa Programa", "ama");
+    }
 }

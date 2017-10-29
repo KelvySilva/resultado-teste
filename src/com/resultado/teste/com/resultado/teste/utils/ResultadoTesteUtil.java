@@ -49,4 +49,43 @@ public class ResultadoTesteUtil {
         }
         return menor;
     }
+
+    public static String printStairs(int number){
+        if (number<2){
+            number = 2;
+        }
+
+        String str = "";
+        for (int i = 0; i <= number; i++) {
+            System.out.println(String.format("%"+number*3+"s", str));
+            str+=" # ";
+
+
+        }
+        return str;
+    }
+
+    public static String getStringIncidence(String string, String sub){
+        int count = 0;
+        String lowSub = sub.toLowerCase();
+        if (lowSub.length() > 1) {
+            String[] spliStrings = string.toLowerCase().split(" ");
+            for (int i = 0; i < spliStrings.length; i++) {
+                if (spliStrings[i].contains(lowSub)){
+                    count++;
+                }
+            }
+        }
+        else {
+            String spliStrings = string.toLowerCase().trim();
+            char[] array = spliStrings.toCharArray();
+            for (int i = 0; i < array.length; i++) {
+                if (lowSub.charAt(0)==array[i]){
+                    count++;
+                }
+            }
+        }
+        return "Ocorrencia:"+" \""+sub+"\" "+"Resultado: "+count;
+    }
+
 }
