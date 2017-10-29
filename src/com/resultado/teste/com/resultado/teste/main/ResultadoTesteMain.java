@@ -2,6 +2,10 @@ package com.resultado.teste.com.resultado.teste.main;
 
 import com.resultado.teste.com.resultado.teste.utils.ResultadoTesteUtil;
 
+import java.util.Arrays;
+import java.util.LinkedList;
+import java.util.List;
+
 public class ResultadoTesteMain {
 
     public int exercicio1Exemplo1(){
@@ -16,6 +20,19 @@ public class ResultadoTesteMain {
 
     public String exercicio2() {
         return ResultadoTesteUtil.printStairs(3);
+    }
+
+    public void exercicio3() {
+        List<Integer> arrayListIn = Arrays.asList(3, 8, 9, 2, 7, 1, 6, 1);
+        List<Integer> arrayListOut = Arrays.asList(3, 8, 9, 2, 7, 6);
+        LinkedList<Integer> linkedListIn = new LinkedList<>();
+        LinkedList<Integer> linkedListOut = new LinkedList<>();
+        linkedListOut.addAll(arrayListOut);
+        linkedListIn.addAll(arrayListIn);
+        int value = 1;
+        System.out.println("LinkedList antes\n"+Arrays.toString(linkedListIn.toArray()));
+        System.out.println("LinkedList depois\n"+Arrays.toString(ResultadoTesteUtil.removeFromLinkedList(value, linkedListIn).toArray()));
+
     }
 
     public String exercicio5() {

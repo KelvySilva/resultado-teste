@@ -2,7 +2,6 @@ package com.resultado.teste.com.resultado.teste.utils;
 
 import com.resultado.teste.com.resultado.teste.com.resultado.teste.model.PathWeith;
 import com.resultado.teste.com.resultado.teste.com.resultado.teste.model.Point;
-import org.omg.PortableServer.POA;
 
 import java.util.*;
 
@@ -86,6 +85,18 @@ public class ResultadoTesteUtil {
             }
         }
         return "Ocorrencia:"+" \""+sub+"\" "+"Resultado: "+count;
+    }
+
+
+    public static LinkedList<Integer> removeFromLinkedList(Integer value, LinkedList<Integer> list){
+        if (list.contains(value)) {
+            for (int i = 0; i < list.size(); i++) {
+                if (list.get(i).equals(value)){
+                    list.remove(i);
+                }
+            }
+        }
+        return list;
     }
 
 }
