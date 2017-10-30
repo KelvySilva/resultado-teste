@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72c5a145-e1a6-469c-9b10-bb0ad071f12a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/resultado-teste/com/resultado/teste/MainApplication.class" afterPath="$PROJECT_DIR$/out/production/resultado-teste/com/resultado/teste/MainApplication.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/resultado-teste/com/resultado/teste/MainApplicationTest.class" afterPath="$PROJECT_DIR$/out/production/resultado-teste/com/resultado/teste/MainApplicationTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/resultado-teste/com/resultado/teste/com/resultado/teste/main/ResultadoTesteMain.class" afterPath="$PROJECT_DIR$/out/production/resultado-teste/com/resultado/teste/com/resultado/teste/main/ResultadoTesteMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/resultado-teste/com/resultado/teste/com/resultado/teste/utils/ResultadoTesteUtil.class" afterPath="$PROJECT_DIR$/out/production/resultado-teste/com/resultado/teste/com/resultado/teste/utils/ResultadoTesteUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/com/resultado/teste/model/Notes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/com/resultado/teste/model/Troco.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/resultado/teste/MainApplication.java" afterPath="$PROJECT_DIR$/src/com/resultado/teste/MainApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/resultado/teste/MainApplicationTest.java" afterPath="$PROJECT_DIR$/src/com/resultado/teste/MainApplicationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/main/ResultadoTesteMain.java" afterPath="$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/main/ResultadoTesteMain.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/utils/ResultadoTesteUtil.java" afterPath="$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/utils/ResultadoTesteUtil.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,13 +44,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ResultadoTesteUtil.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ResultadoTesteUtil.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/utils/ResultadoTesteUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="90" column="58" lean-forward="false" selection-start-line="90" selection-start-column="58" selection-end-line="90" selection-end-column="58" />
+            <state relative-caret-position="444">
+              <caret line="140" column="24" lean-forward="false" selection-start-line="140" selection-start-column="24" selection-end-line="140" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#3568#3569#0" expanded="true" />
+                <element signature="e#3607#3608#0" expanded="true" />
+                <element signature="e#4755#4756#0" expanded="true" />
+                <element signature="e#4825#4826#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,18 +80,18 @@
       <file leaf-file-name="PathWeith.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/com/resultado/teste/model/PathWeith.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainApplication.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/resultado/teste/MainApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            <state relative-caret-position="340">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,10 +132,13 @@
         <option value="$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/com/resultado/teste/model/Point.java" />
         <option value="$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/com/resultado/teste/model/PathWeith.java" />
         <option value="$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/com/resultado/teste/model/LinkedList.java" />
-        <option value="$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/utils/ResultadoTesteUtil.java" />
         <option value="$PROJECT_DIR$/src/com/resultado/teste/MainApplicationTest.java" />
         <option value="$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/main/ResultadoTesteMain.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/com/resultado/teste/model/Troco.java" />
+        <option value="$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/com/resultado/teste/model/Notes.java" />
         <option value="$PROJECT_DIR$/src/com/resultado/teste/MainApplication.java" />
+        <option value="$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/utils/ResultadoTesteUtil.java" />
       </list>
     </option>
   </component>
@@ -192,13 +195,6 @@
               <item name="com.resultado.teste" type="1f31426a:PackageElementNode" />
               <item name="com.resultado.teste.model" type="1f31426a:PackageElementNode" />
             </path>
-            <path>
-              <item name="resultado-teste" type="58d84e3e:PackageViewProjectNode" />
-              <item name="resultado-teste" type="616d4139:PackageViewModuleNode" />
-              <item name="com.resultado.teste" type="1f31426a:PackageElementNode" />
-              <item name="com.resultado.teste" type="1f31426a:PackageElementNode" />
-              <item name="main" type="1f31426a:PackageElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -211,17 +207,6 @@
               <item name="resultado-teste" type="b2602c69:ProjectViewProjectNode" />
               <item name="resultado-teste" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="resultado-teste" type="b2602c69:ProjectViewProjectNode" />
-              <item name="resultado-teste" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="resultado-teste" type="b2602c69:ProjectViewProjectNode" />
-              <item name="resultado-teste" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="teste" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -231,7 +216,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -261,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainApplication">
+  <component name="RunManager" selected="Application.ResultadoTesteUtil">
     <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -331,31 +316,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="MainApplicationTest.encontra4IncidenciasDeA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.resultado.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="resultado-teste" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.resultado.teste" />
-      <option name="MAIN_CLASS_NAME" value="com.resultado.teste.MainApplicationTest" />
-      <option name="METHOD_NAME" value="encontra4IncidenciasDeA" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration name="MainApplicationTest.temQueExibir1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -380,6 +340,25 @@
       </option>
       <envs />
       <patterns />
+    </configuration>
+    <configuration name="ResultadoTesteUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.resultado.teste.com.resultado.teste.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.resultado.teste.com.resultado.teste.utils.ResultadoTesteUtil" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="resultado-teste" />
+      <envs />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -465,17 +444,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.MainApplicationTest" />
       <item index="1" class="java.lang.String" itemvalue="Application.MainApplication" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.MainApplicationTest.encontra4IncidenciasDeA" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MainApplicationTest.encontra2IncidenciasDeP" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.MainApplicationTest.temQueExibir1" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MainApplicationTest.encontra2IncidenciasDeP" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MainApplicationTest.temQueExibir1" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ResultadoTesteUtil" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MainApplication" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MainApplicationTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.MainApplicationTest.temQueExibir1" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.MainApplicationTest.encontra2IncidenciasDeP" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MainApplicationTest.encontra4IncidenciasDeA" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ResultadoTesteUtil" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MainApplication" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MainApplicationTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MainApplicationTest.temQueExibir1" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MainApplicationTest.encontra2IncidenciasDeP" />
       </list>
     </recent_temporary>
   </component>
@@ -492,7 +471,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509199099224</updated>
-      <workItem from="1509199104806" duration="59016000" />
+      <workItem from="1509199104806" duration="64551000" />
     </task>
     <servers />
   </component>
@@ -529,7 +508,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59016000" />
+    <option name="totallyTimeSpent" value="64551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -543,12 +522,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4554622" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6369748" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -703,28 +682,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/com/resultado/teste/model/PathWeith.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/resultado/teste/MainApplicationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
           <caret line="142" column="34" lean-forward="true" selection-start-line="142" selection-start-column="34" selection-end-line="142" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/utils/ResultadoTesteUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="90" column="58" lean-forward="false" selection-start-line="90" selection-start-column="58" selection-end-line="90" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -743,12 +704,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/com/resultado/teste/model/PathWeith.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/com/resultado/teste/model/Troco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/com/resultado/teste/model/Notes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/resultado/teste/MainApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/resultado/teste/com/resultado/teste/utils/ResultadoTesteUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="140" column="24" lean-forward="false" selection-start-line="140" selection-start-column="24" selection-end-line="140" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3568#3569#0" expanded="true" />
+            <element signature="e#3607#3608#0" expanded="true" />
+            <element signature="e#4755#4756#0" expanded="true" />
+            <element signature="e#4825#4826#0" expanded="true" />
           </folding>
         </state>
       </provider>
